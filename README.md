@@ -30,20 +30,3 @@ class fibonacci
 ```
 
 Then you press run and the code should appear on the languages shell. Then you are done!
-
-### Universal Supported Languages
-
- - [x] Python
- - [x] Java 
- - [x] C++
- - [x] C#
- - [x] PHP
- - [x] Javascript
- - [] TypeScript
- - [] 
- - [] 
- - [] 
- - [] 
- - [] 
- - [] 
- - [] 
