@@ -4,7 +4,9 @@ This is a Collection of Fibonacci Programs in many many languages such as Python
 * C++
 * Go
 * Java
-* etc.
+* Javascript
+* C#
+* PHP
 
 ## Examples for runnig the programs
 So let us first open up an IDE or an online editor such as Repl.it that supports this langauge (Reasearch on your own). Then insert the code into the IDE like the following java program below:
@@ -36,7 +38,7 @@ Then you press run and the code should appear on the languages shell. Then you a
  - [x] C++
  - [x] C#
  - [x] PHP
- - [] Javascript
+ - [x] Javascript
  - [] TypeScript
  - [] 
  - [] 
