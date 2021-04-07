@@ -7,11 +7,23 @@ This is a Collection of Fibonacci Programs in many many languages such as Python
 * etc.
 
 ## Examples for runnig the programs
-So let us first open up an IDE or an online editor such as Repl.it that supports this langauge (Reasearch on your own). Then insert the code into the IDE like the following python script below:
+So let us first open up an IDE or an online editor such as Repl.it that supports this langauge (Reasearch on your own). Then insert the code into the IDE like the following java program below:
 
-```python
-if (isAwesome){
-  return true
+```java
+class fibonacci
+{
+    static int fib(int n)
+    {
+    if (n <= 1)
+       return n;
+    return fib(n-1) + fib(n-2);
+    }
+      
+    public static void main (String args[])
+    {
+    int n = 9;
+    System.out.println(fib(n));
+    }
 }
 ```
 
@@ -19,11 +31,11 @@ Then you press run and the code should appear on the languages shell. Then you a
 
 ### Universal Supported Languages
 
- - [] Python
- - [] Java 
- - [] C++
- - [] C#
- - [] PHP
+ - [x] Python
+ - [x] Java 
+ - [x] C++
+ - [x] C#
+ - [x] PHP
  - [] Javascript
  - [] TypeScript
  - [] 
